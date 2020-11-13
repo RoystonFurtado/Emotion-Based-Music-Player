@@ -11,3 +11,5 @@ com.google.android.gms.vision.face-To detect faces in an image.
 android.graphics-To create a bitmap for processing the image.
 
 android.media-To play music.
+
+Contributors - Royston Furtado , Jay Bhatt and Atharva More.
