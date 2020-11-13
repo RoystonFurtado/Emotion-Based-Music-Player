@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Mood Music</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="alert">This app is completely based on Camera and Storage features.Please provide these permissions. </string>
+    <string name="email">email</string>
+    <string name="password">Password</string>
+    <string name="login">login</string>
+    <string name="contact_us">For any enquiries contact us at   royston@gmail.com</string>
+    <string name="Mobno">Mobile No:9723542374</string>
+    <string name="About">Emotion Based Music Player is developed by Royston Furtado,Atharva More &amp; Jay Bhatt who are a team of IT Engineers pursuing their BE from Mumbai University.We came up with an innovative idea of improving user\'s experience by automating music player such that it can play music based on your mood so that you don\'t have to worry about searching and selecting it every time.</string>
+</resources>
